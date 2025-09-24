@@ -2,10 +2,10 @@
 
 A small desktop tool that tracks how long app is running and logs the session durations.
 
-🆕 New in v1.1: Added auto-start tracking and minimize-on-launch options (configurable).
+🆕 New in v2.0: Added Multi-App Tracking, New UI Features, Improved Time Display and more.
 
-- 📦 [Download v1.1](https://github.com/VideoGamerMan/App-Usage-Tracker/releases/tag/v1.1)
+- 📦 [Download v2.0](https://github.com/VideoGamerMan/App-Usage-Tracker/releases/tag/v2.0)
 - 📝 No source code available.
 - 💻 Windows only (standalone .exe, no install required)
 
- For setup instructions, see the [v1.1 Release Notes](https://github.com/VideoGamerMan/App-Usage-Tracker/releases/tag/v1.1)
+ For setup instructions, see the [v2.0 Release Notes](https://github.com/VideoGamerMan/App-Usage-Tracker/releases/tag/v2.0)
